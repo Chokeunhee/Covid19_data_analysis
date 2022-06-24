@@ -1,2 +1,2 @@
-# Rits_PBL5
-This is a repository of project based learning lecture
+# Covid19_data_analysis
+This is a repository of data analysis of Covid data
